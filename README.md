@@ -11,9 +11,9 @@
 - [Naver Sentiment Movie Corpus v1.0](https://github.com/e9t/nsmc)
 
 ## Performance
-|(2,3,4,5)|(7,7,7,7)|
-:---:|:---:|
-Acc|-|-|
+　|(2,3,4,5)|(7,7,7,7)|
+|:---:|:---:|:---:|
+|Acc|-|-|
 
 
 -|-|-|-
