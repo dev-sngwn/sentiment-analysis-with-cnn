@@ -14,8 +14,9 @@
 　|(2,3,4,5)|(7,7,7,7)|(2,3,4,5)+SPT|(7,7,7,7)+SPT|(2,3,4,5)+NSPT|(7,7,7,7)+NSPT|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |Acc|-|-|-|-|-|-|
-\* SPT: Static Pre-Trained Weight
-\* NSPT: Non-Static Pre-Trained Weight
+
+- SPT: Static Pre-Trained Weight
+- NSPT: Non-Static Pre-Trained Weight
 
 
     
