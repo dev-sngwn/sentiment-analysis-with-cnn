@@ -11,9 +11,11 @@
 - [Naver Sentiment Movie Corpus v1.0](https://github.com/e9t/nsmc)
 
 ## Performance
-　|(2,3,4,5)|(7,7,7,7)|(2,3,4,5)+PT|(7,7,7,7)+PT|(2,3,4,5)+PT|(7,7,7,7)+PT|
+　|(2,3,4,5)|(7,7,7,7)|(2,3,4,5)+SPT|(7,7,7,7)+SPT|(2,3,4,5)+NSPT|(7,7,7,7)+NSPT|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |Acc|-|-|-|-|-|-|
+\* SPT: Static Pre-Trained Weight
+\* NSPT: Non-Static Pre-Trained Weight
 
 
     
