@@ -4,8 +4,8 @@
 
 ## Requirements
 - Keras
-- numpy
-- [bpemb](https://github.com/bheinzerling/bpemb)
+- Numpy
+- [BPEmb](https://github.com/bheinzerling/bpemb)
   
 ## Dataset
 - [Naver Sentiment Movie Corpus v1.0](https://github.com/e9t/nsmc)
