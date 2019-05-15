@@ -13,7 +13,7 @@
 ## Performance
 　|(2,3,4,5)|(7,7,7,7)|(2,3,4,5)+SPT|(7,7,7,7)+SPT|(2,3,4,5)+NSPT|(7,7,7,7)+NSPT|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|Acc|-|-|-|-|85.8|85.5|
+|Acc|85.7|85.8|82.9|81.0|85.8|85.5|
 
 - SPT: Static Pre-Trained Weight
 - NSPT: Non-Static Pre-Trained Weight
